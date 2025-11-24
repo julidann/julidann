@@ -28,17 +28,23 @@ Actualmente estoy enfocada en mejorar mis habilidades en **backend, desarrollo w
 
 ---
 
-## Proyectos Destacados
+## Proyectos Académicos
 
+### **Mi primera página web**
+Repo: **[VER REPO](https://github.com/julidann/mi-primera-pag-web)**
+
+### **Tienda de dispositivos Apple**
+Repo: **[VER REPO](https://github.com/julidann/TPE_webII_cheves_dannunzio)**
+
+### **Tienda de dispositivos Apple APIREST**
+Repo: **[VER REPO](https://github.com/julidann/TPEREST_WEBII_Cheves_DAnnunzio)**
+
+
+## Proyectos personales
 ### **Gestión de Gastos**  
-Sistema de gestión financiera personal con:
-- ABM (CRUD) completo  
-- MySQL  
-- PHP + MVC  
-- Gráficos, filtros y estadísticas  
 Repo: **[julidann/gestion-gastos](https://github.com/julidann/gestion-gastos)**
+### **Gestión Clientes**  
 
-*(Más proyectos próximamente…)*
 ---
 ## Actualmente aprendiendo
 - Programación Orientada a Objetos (POO) con Java  
