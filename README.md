@@ -1,12 +1,12 @@
 ## Hi there 👋
-**Estudiante de TUDAI (UNICEN)**, orientada al **desarrollo de software**, con todas las materias de primer año aprobadas y promedio **8.10**.  
+**Estudiante de TUDAI (UNICEN) 2024-actualidad**, orientada al **desarrollo de software**, con todas las materias de primer año aprobadas y promedio **8.10**.  
 Actualmente estoy enfocada en mejorar mis habilidades en **backend, desarrollo web y bases de datos**, trabajando en proyectos propios y académicos.
 ---
 ## 🚀 Sobre mí
-- 🎓 Estudio la Tecnicatura en Desarrollo de Aplicaciones Informáticas (TUDAI – UNICEN)  
-- 💻 Me interesa el desarrollo **backend**, **full-stack** y **QA**  
-- 🧠 Me gusta aprender, resolver problemas y escribir código limpio  
-- 🔍 Busco mi **primera experiencia laboral IT**
+- Estudio la Tecnicatura en Desarrollo de Aplicaciones Informáticas (TUDAI – UNICEN)  
+- Me interesa el desarrollo **backend**, **full-stack** y **QA**  
+- Me gusta aprender, resolver problemas y escribir código limpio  
+- Busco mi **primera experiencia laboral IT**
 ---
 ## 🛠️ Tecnologías que uso
 ### **Lenguajes**
