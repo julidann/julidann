@@ -47,7 +47,7 @@ Repo: **[julidann/gestion-gastos](https://github.com/julidann/gestion-gastos)**
 ---
 ## 📫 Cómo contactarme
 **Email:** dannunzio.julieta@gmail.com  
-**LinkedIn:** *(agregalo si querés que lo incluya)*  
+**LinkedIn:** *[(linkedin)](https://www.linkedin.com/in/julieta-dannunzio/)*  
 ---
 
 ##  Gracias por visitar mi perfil
