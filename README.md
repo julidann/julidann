@@ -1,60 +1,67 @@
-## Hi there 👋
-**Estudiante de TUDAI (UNICEN) 2024-actualidad**, orientada al **desarrollo de software**, con todas las materias de primer año aprobadas y promedio **8.10**.  
-Actualmente estoy enfocada en mejorar mis habilidades en **backend, desarrollo web y bases de datos**, trabajando en proyectos propios y académicos.
----
-## Sobre mí
-- Estudio la Tecnicatura en Desarrollo de Aplicaciones Informáticas (TUDAI – UNICEN)  
-- Me interesa el desarrollo **backend**, **full-stack** y **QA**  
-- Me gusta aprender, resolver problemas y escribir código limpio  
-- Busco mi **primera experiencia laboral IT**
----
-## Tecnologías que uso
-### **Lenguajes**
-- Java  
-- JavaScript  
-- PHP  
-- SQL (MySQL)
+## Hi there Soy Julieta D’Annunzio
 
-### **Web**
-- HTML5  
-- CSS3  
-- Diseño responsivo  
-- APIs REST (básico)
+**Estudiante de 2do año de TUDAI (UNICEN)**, orientada al **desarrollo de software Full Stack**. Cuento con una sólida formación académica, con un promedio de **8.10** y todas las materias de primer año aprobadas [4, 5]. 
+
+Actualmente estoy enfocada en el desarrollo de soluciones escalables, aplicando buenas prácticas de programación y metodologías ágiles [1, 4].
+
+---
+
+## Sobre mí
+-  Estudio la Tecnicatura en Desarrollo de Aplicaciones Informáticas (TUDAI – UNICEN) [5].
+-  Me interesa el desarrollo **Full Stack**, con especial énfasis en **Backend** y **QA** [3, 5].
+-  Disfruto resolviendo problemas lógicos y diseñando arquitecturas de datos eficientes [3].
+-  Busco mi **primera experiencia laboral IT** para aportar valor en entornos colaborativos [4, 5].
+
+---
+
+## Tecnologías y Competencias
+### **Lenguajes y Backend**
+- **Java** (Programación Orientada a Objetos) [1].
+- **JavaScript** (ES6+) y **PHP** [1].
+- **SQL** (MySQL): Modelado de datos relacional y gestión de bases de datos [1, 2].
+- **Arquitectura:** Implementación de patrones **MVC** (Modelo-Vista-Controlador) [2, 3].
+
+### **Frontend**
+- **React.js** (Seminario completado) [1].
+- **HTML5** & **CSS3**: Diseño responsivo, Flexbox y Grid [1, 2].
+- **Manipulación del DOM** e interfaces dinámicas [1].
 
 ### **Herramientas**
-- Git / GitHub  
-- VS Code  
-- Postman (básico)
+- **Git / GitHub** (Control de versiones) [6].
+- **VS Code**, **Postman** y documentación técnica [6].
 
 ---
 
-## Proyectos Académicos
+## Proyectos Destacados
 
-### **Mi primera página web**
-Repo: **[VER REPO](https://github.com/julidann/mi-primera-pag-web)**
+### ** Gestión de Gastos (Personal)**
+Aplicación para el registro y análisis de finanzas personales [6].
+- **Tecnologías:** PHP, MySQL, JavaScript y CSS3 [6].
+- **Logros:** Implementé un sistema **CRUD completo**, autenticación de usuarios y filtros dinámicos por fecha, todo bajo una estructura **MVC** [2].
+- Repo: **[VER REPO](https://github.com/julidann/gestion-gastos)**
 
-### **Tienda de dispositivos Apple**
-Repo: **[VER REPO](https://github.com/julidann/TPE_webII_cheves_dannunzio)**
-
-### **Tienda de dispositivos Apple APIREST**
-Repo: **[VER REPO](https://github.com/julidann/TPEREST_WEBII_Cheves_DAnnunzio)**
-
-
-## Proyectos personales
-### **Gestión de Gastos**  
-Repo: **[julidann/gestion-gastos](https://github.com/julidann/gestion-gastos)**
-### **Gestión Clientes**  
+### ** Tienda de Dispositivos Apple (Académico/Personal)**
+Catálogo dinámico con gestión integral de inventario [2].
+- **Tecnologías:** PHP, MySQL y JavaScript [2, 3].
+- **Logros:** Desarrollé un panel administrativo para la gestión de productos y categorías (ABM) y una versión adicional con **API REST** [2, 3].
+- Repo Web: **[VER REPO](https://github.com/julidann/TPE_webII_cheves_dannunzio)**
+- Repo API REST: **[VER REPO](https://github.com/julidann/TPEREST_WEBII_Cheves_DAnnunzio)**
 
 ---
+
 ## Actualmente aprendiendo
-- Programación Orientada a Objetos (POO) con Java  
-- Buenas prácticas y patrones básicos  
-- Arquitectura web y manejo de bases de datos
----
-## Cómo contactarme
-**Email:** dannunzio.julieta@gmail.com  
-**LinkedIn:** *[(Julieta-D'Annunzio)](https://www.linkedin.com/in/julieta-dannunzio/)*  
+-  **Angular** (Cursando seminario actualmente) [1, 6].
+-  **Estructuras de datos** avanzadas (Programación III) [1].
+-  **Metodologías de Desarrollo** y modelado con **UML** [1].
+
 ---
 
-##  Gracias por visitar mi perfil
+## Cómo contactarme
+- **Email:** [dannunzio.julieta@gmail.com](mailto:dannunzio.julieta@gmail.com) [4]
+- **LinkedIn:** [julieta-dannunzio](https://www.linkedin.com/in/julieta-dannunzio/) [4]
+- **Idiomas:** Inglés intermedio (lectura técnica y documentación) [6].
+
+---
+## Gracias por visitar mi perfil! 
+
 
